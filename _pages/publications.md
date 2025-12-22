@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 Latest (Preprints)
-*  Cross-Cultural Considerations for Designing Mental Health Applications: Ten Practical Recommendations <a href = "https://osf.io/s4ed6/?view_only=60e283ff40034b22a13385edbfd07cf6"> Link </a>
+*  Cross-Cultural Considerations for Designing Mental Health Applications: Ten Practical Recommendations <a href = "https://osf.io/preprints/psyarxiv/bzcnx_v1"> Link </a>
 * Conversations with AI Chatbots Increase Short-Term Vaccine Intentions But Do Not Outperform Standard Public Health Messaging. <a href = "https://arxiv.org/abs/2504.20519"> Link </a>
 
 
