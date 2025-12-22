@@ -4,11 +4,11 @@ permalink: /about/
 
 ---
 
-I'm a postdoctoral researcher in the Department of Computer and Information Science at the University of Pennsylvania. I am grateful to be advised by [Dr. Lyle H. Ungar](https://www.cis.upenn.edu/~ungar/) and [Dr. Sharath C. Guntuku](https://sharathg.cis.upenn.edu/). I completed Ph.D. from the University of Delhi, India. I build human-centered AI to promote positive behaviors. Currently, I am working on:
+I'm a postdoctoral researcher in the Department of Computer and Information Science at the University of Pennsylvania. I am grateful to be advised by [Dr. Lyle H. Ungar](https://www.cis.upenn.edu/~ungar/) and [Dr. Sharath C. Guntuku](https://sharathg.cis.upenn.edu/). I completed Ph.D. from the University of Delhi, India. I build human-centered AI to promote healthy behaviors. Currently, I am working on:
 
-- [cultural alignment] Building socially aware AI that aligns with users' preferred style, emotions and norms
+- [cultural alignment] Building socially aware AI that aligns its output with users' preferred style, emotions and norms
 - [behavioral health] Measuring & mitigating demographic bias in AI mental health assessment 
-- [AI x behavioral health] Building AI systems for promoting healthy behaviors such as vaccine uptake 
+- [AI x behavioral health] Building AI systems for promoting positive behavioral change
 - [biases x AI safety] Designing framework to measure harmful social biases in digital media  - a colab with the World Bank
 
 **I am on the faculty and industry job market. I am applying broadly across disciplines, and would be grateful to hear of relevant positions.**
