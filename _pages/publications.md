@@ -4,15 +4,18 @@ author_profile: true
 
 ---
 
-Latest (Preprints)
-*  Cross-Cultural Considerations for Designing Mental Health Applications: Ten Practical Recommendations <a href = "https://osf.io/s4ed6/?view_only=60e283ff40034b22a13385edbfd07cf6"> Link </a>
-* Conversations with AI Chatbots Increase Short-Term Vaccine Intentions But Do Not Outperform Standard Public Health Messaging. <a href = "https://arxiv.org/abs/2504.20519"> Link </a>
+Preprints
+* Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models <a href = "https://osf.io/preprints/psyarxiv/mrey3_v1"> Link </a>
+* Text or Speech, the Gap Persists: AI-based Depression Screening Is Better Calibrated for Lower-SES Users <a href = "https://osf.io/preprints/psyarxiv/hncb4_v1"> Link </a>
+* *Culture by Design*: A Sociotechnical Framework for Culturally Grounded AI for Mental Health <a href = "https://osf.io/preprints/psyarxiv/bzcnx_v2"> To appear in CLPsych, ACL'26 </a> 
+* Triantafyllopoulos, I., Cho, Y.M., Tao, R., Miao, M.M., **Rai, S.**, Ungar, L., Guntuku, S.C., Ryant, N. and Sedoc, J. (2026) <a href = "https://arxiv.org/abs/2605.04980"> Conceptors for Semantic Steering </a>
+
 
 
 For latest publication, visit [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=C-gi0v8AAAAJ&view_op=list_works&sortby=pubdate)
 
 Selected Publications
-
+* Conversations with AI Chatbots Increase Short-Term Vaccine Intentions But Do Not Outperform Standard Public Health Messaging. JAMA Network Open 
 * Havaldar, S., Cho, Y.M., **Rai, S.**, Ungar, L. (2025) Culturally-Aware Conversations: A Framework & Benchmark for LLMs. Bridging Human-Computer Interaction and Natural Language Processing. EMNLP 2025.
 * Gupta, A., Joseph, R., & **Rai, S.** (2025, August). HATS: Hindi Analogy Test Set for Evaluating Reasoning in Large Language Models. In The 2nd Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-Angle II) (p. 57).
 * **Rai, S.**, Zaveri, K., Havaldar, S., Nema, S., Ungar, L., & Guntuku, S. C. (2025, April). Social norms in cinema: A cross-cultural analysis of shame, pride and prejudice. NAACL. Featured in <a href = "https://www.mercatus.org/ideasofindia/sunny-rai-using-large-language-models-understand-depiction-shame-and-pride-bollywood"> Ideas of India podcast </a>,  <a href = "https://www.ggd.world/p/what-do-hollywood-and-bollywood-regard"> The Great Gender Divergence </a> 
