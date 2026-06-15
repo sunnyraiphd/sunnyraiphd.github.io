@@ -4,6 +4,7 @@ permalink: /news/
 author_profile: "true"
 
 ---
+* [May'26] Speaking at the Impact Lounge, 79th Cannes Film Festival on AI for Edutainment
 * [Jan'25] Long paper accepted in [NAACL'25](https://2025.naacl.org/). 
 * [Dec'24] Awarded Leonard Davis Institute grant of USD 19,500 for multimodal depression risk assessment.
 * [Aug'24] Awarded USD 50,000 by PMCRI to build a chatbot for virtual HPV vaccine counseling.
