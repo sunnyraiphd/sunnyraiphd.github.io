@@ -6,8 +6,8 @@ author_profile: true
 
 Preprints
 * Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models <a href = "https://osf.io/preprints/psyarxiv/mrey3_v1"> Link </a>
-* Text or Speech, the Gap Persists: AI-based Depression Screening Is Better Calibrated for Lower-SES Users <a href = "https://osf.io/preprints/psyarxiv/hncb4_v1"> CSCW 2026 </a>
-* *Culture by Design*: A Sociotechnical Framework for Culturally Grounded AI for Mental Health <a href = "https://osf.io/preprints/psyarxiv/bzcnx_v2"> CLPsych, ACL'26; C3NLP </a> 
+* Text or Speech, the Gap Persists: AI-based Depression Screening Is Better Calibrated for Lower-SES Users <a href = "https://osf.io/preprints/psyarxiv/2t4cb_v1"> CSCW 2026 </a>
+* *Culture by Design*: A Sociotechnical Framework for Culturally Grounded AI for Mental Health <a href = "https://osf.io/preprints/psyarxiv/bzcnx_v2"> CLPsych, C3NLP @ ACL 2026 </a> 
 * Triantafyllopoulos, I., Cho, Y.M., Tao, R., Miao, M.M., **Rai, S.**, Ungar, L., Guntuku, S.C., Ryant, N. and Sedoc, J. (2026) <a href = "https://arxiv.org/abs/2605.04980"> Conceptors for Semantic Steering </a>
 
 
