@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Sunny Rai"
 title_separator          : "-"
 name                     : &name "Sunny Rai"
-description              : &description "sunnyrai at seas.upenn.edu"
+description              : &description "sunnyraiphd at gmail.com"
 url                      : "https://raisunny.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sunnyraiphd.github.io"
@@ -24,11 +24,11 @@ author :
   avatar           : "/images/profile.png"
   name             : "Sunny Rai"
   #pronouns         : "She/Her"  
-  bio              : "University of Pennsylvania"
+  bio              : "Microsoft"
   #location         : "USA"
   #employer         : "University of Pennsylvania"
   uri              : # URL
-  email            : "sunnyrai at seas.upenn.edu"
+  email            : "sunnyraiphd at gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
